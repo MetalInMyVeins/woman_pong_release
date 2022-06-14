@@ -14,8 +14,11 @@ This repository contains the release builds of the 'Woman Pong' game. Currently 
 2. Extract the tar archive in any directory with no permission requirements.
 3. This game depends on SDL2. So SDL2 must be installed in your system. If SDL2 is not already installed in your system, execute these commands:
 > sudo apt install libsdl2-dev
+> 
 > sudo apt install libsdl2-ttf-dev
+> 
 > sudo apt install libsdl2-image-dev
+> 
 > sudo apt install libsdl2-mixer-dev
 4. Enter the extracted 'Woman_Pong_linux_64_bit.tar.xz' directory.
 5. Run the 'woman_pong' binary from terminal or any file manager of your interest.
