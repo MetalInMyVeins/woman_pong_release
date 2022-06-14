@@ -27,3 +27,5 @@ This repository contains the release builds of the 'Woman Pong' game. Currently 
 
 #### Note:
 If you are trying to download from a smartphone, click on 'View code' and the list of builds would appear. Click on your preferred build. Click on the three dots beside the file size and it will prompt you to download the file.
+
+This game is written in C++.
