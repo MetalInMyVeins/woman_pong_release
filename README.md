@@ -24,3 +24,6 @@ This repository contains the release builds of the 'Woman Pong' game. Currently 
 5. Run the 'woman_pong' binary from terminal or any file manager of your interest.
 6. If it doesn't run, execute this command and try again:
 > chmod +x woman_pong
+
+#### Note:
+If you are trying to download from a smartphone, click on 'View code' and the list of builds would appear. Click on your preferred build. Click on the three dots beside the file size and it will prompt you to download the file.
